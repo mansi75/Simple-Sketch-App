@@ -5,7 +5,9 @@ This is a simple live sketch app using webcam with python libraries such as NumP
 
 * [About](#About)
 * [Output](#Output)
+* [Requirements](#Requirements)
 * [GettingStarted](#GettingStarted)
+
 
 
 <a id="About"></a>
@@ -16,6 +18,14 @@ In Sketch App, video is captured frame by frame using webcam and then sketch of 
 ## Output
 
 ![Imgur](Sketch-App.png)
+
+<a id="Requirements"></a>
+## Requirements
+<ul>
+  <li>Python 3.x</li>
+  <li>OpenCV 2.x</li>
+</ul
+
 
 
 <a id="GettingStarted"></a>
