@@ -5,7 +5,7 @@ This is a simple live sketch app using webcam with python libraries such as NumP
 
 * [About](#About)
 * [Output](#Output)
-* [GettingStarted](#Getting Started)
+* [GettingStarted](#GettingStarted)
 
 
 <a id="About"></a>
